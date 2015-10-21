@@ -1,5 +1,7 @@
 # The Ultimate Workout Clock for iOS
 
+[![Join the chat at https://gitter.im/mikeokner/Ultimate-Workout-Clock](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mikeokner/Ultimate-Workout-Clock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![iTunes Store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://itunes.apple.com/us/app/the-ultimate-workout-clock/id467260447)
 [![Build Status](https://travis-ci.org/mikeokner/Ultimate-Workout-Clock.svg)](https://travis-ci.org/mikeokner/Ultimate-Workout-Clock)
 
